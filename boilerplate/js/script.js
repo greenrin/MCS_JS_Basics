@@ -7,6 +7,3 @@ let watchesSum = prompt('how much is watches cost?')*watchesCount;
 let earringsSum = prompt('how much is earrings cost?')*earringsCount;
 
 console.log(watchesSum+earringsSum<=totalCash);
-
-
-
